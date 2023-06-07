@@ -14,10 +14,10 @@
   
   "startapp_id": "xxxxxxxx",
 
-  "Interstitial": "cccc",
-  "Banner": "cccc",
-  "Native": "cccc",
-  "Rewarded": "cccc",
+  "Interstitial": "applovin",
+  "Banner": "applovin",
+  "Native": "applovin",
+  "Rewarded": "applovin",
   
   
   "main_inter": true,
